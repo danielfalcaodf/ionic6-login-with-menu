@@ -1,0 +1,7 @@
+{
+  "name": "ionic6-login-with-menu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
